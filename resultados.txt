@@ -1,0 +1,56 @@
++---------------+----------------+
+| department_id | total_produtos |
++---------------+----------------+
+|             2 |              3 |
+|             6 |              3 |
+|             3 |              2 |
++---------------+----------------+
++----------+----------------+
+| aisle_id | total_produtos |
++----------+----------------+
+|        6 |              4 |
++----------+----------------+
++-------------------+------------+
+| product_name      | department |
++-------------------+------------+
+| Chocolate Cookies | bakery     |
+| All-Seasons Salt  | other      |
+| Oolong Tea        | beverages  |
+| Mini Rigatoni     | frozen     |
+| Green Chile Sauce | other      |
+| Dry Nose Oil      | other      |
+| Coconut Water     | beverages  |
+| Russet Potatoes   | produce    |
+| Strawberry Yogurt | bakery     |
+| Orange Juice      | beverages  |
++-------------------+------------+
++-------------------+----------------------------+------------+
+| product_name      | aisle                      | department |
++-------------------+----------------------------+------------+
+| Mini Rigatoni     | prepared soups salads      | frozen     |
+| All-Seasons Salt  | marinades meat preparation | other      |
+| Green Chile Sauce | marinades meat preparation | other      |
+| Dry Nose Oil      | juice nectars              | other      |
+| Chocolate Cookies | energy granola bars        | bakery     |
+| Strawberry Yogurt | energy granola bars        | bakery     |
+| Russet Potatoes   | instant foods              | produce    |
+| Oolong Tea        | juice nectars              | beverages  |
+| Coconut Water     | juice nectars              | beverages  |
+| Orange Juice      | juice nectars              | beverages  |
++-------------------+----------------------------+------------+
++---------------+------------+
+| product_name  | department |
++---------------+------------+
+| Oolong Tea    | beverages  |
+| Coconut Water | beverages  |
+| Orange Juice  | beverages  |
++---------------+------------+
++------------+--------------+
+| department | qtd_produtos |
++------------+--------------+
+| other      |            3 |
+| beverages  |            3 |
+| bakery     |            2 |
+| frozen     |            1 |
+| produce    |            1 |
++------------+--------------+
